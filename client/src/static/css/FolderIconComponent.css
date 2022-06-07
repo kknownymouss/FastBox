@@ -1,0 +1,207 @@
+.folder-icon-wrap {
+    display: flex;
+    background-color: #fafafa;
+    border-radius: 8px;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #eee;;
+    flex-direction: column;
+    width: 190px;
+    height: 190px;
+    margin: 10px 15px;
+    box-sizing: border-box;
+    padding: 20px;
+    text-align: center;
+    transition: background 0.2s ease-in-out;
+    position: relative;
+}
+
+.folder-icon-wrap:hover {
+    background-color: lightgray;
+}
+
+.red-folder-svg {
+    width: 120px;
+}
+
+.folder-icon-wrap-inline {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid lightgray;
+    padding: 5px;
+    transition: background 0.2s ease-in-out;
+    position: relative;
+}
+
+.folder-icon-wrap-inline:hover {
+    background-color: rgb(235, 232, 232);
+}
+
+.red-folder-svg-inline {
+    width: 25px;
+    margin-right: 15px;
+}
+
+.folder-icon-menu {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    background-color: #fff;
+    border-radius: 6px;
+    box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.1);
+    border: 1px solid #eee;
+    overflow-y: hidden;
+    top: -10px;
+    z-index: 10;
+
+}
+
+.folder-icon-menu-option {
+    padding: 15px 15px;
+    width: 200px;
+    color: rgb(54, 53, 53);
+    font-size: 15px;
+    text-align: left;
+    user-select: none;
+    transition: all 0.2s ease-in-out;
+}
+
+.folder-icon-menu-option:hover {
+    background-color: lightgray;
+}
+
+.rename-popup-div {
+    display: flex;
+    flex-direction: column;
+    width: 280px;
+    position: absolute;
+    background-color: #fff;;
+    box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.1);
+    border: 1px solid #eee;;
+    padding: 20px;
+    border-radius: 8px;
+    left: 10%;
+    top: -5%;
+    margin-top: 10;
+    box-sizing: border-box;
+    z-index: 10;
+}
+
+
+.move-popup-div {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    position: absolute;
+    background-color: #fff;;
+    box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.1);
+    border: 1px solid #eee;;
+    padding: 20px;
+    border-radius: 8px;
+    left: 10%;
+    top: -5%;
+    margin-top: 10;
+    box-sizing: border-box;
+    z-index: 10;
+}
+
+.info-popup-div {
+    display: flex;
+    width: 500px;
+    flex-direction: column;
+    position: absolute;
+    background-color: #fff;;
+    box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.1);
+    border: 1px solid #eee;;
+    padding: 20px;
+    border-radius: 8px;
+    left: 10%;
+    top: -5%;
+    margin-top: 10;
+    box-sizing: border-box;
+    z-index: 10;
+}
+
+.move-folder-structure-div {
+    max-height: 250px;
+    overflow-y: auto;
+}
+
+
+
+@media screen and (max-width: 1440px) {
+    
+}
+
+@media screen and (max-width: 860px) {
+
+}
+
+@media screen and (max-width: 428px) {
+    .folder-icon-wrap {
+        display: flex;
+        background-color: #fafafa;
+        border-radius: 8px;
+        align-items: center;
+        justify-content: center;
+        border: 1px solid #eee;;
+        flex-direction: column;
+        width: 120px;
+        height: 120px;
+        margin: 10px 15px;
+        box-sizing: border-box;
+        padding: 20px;
+        text-align: center;
+        transition: background 0.2s ease-in-out;
+        position: relative;
+    }
+
+    .red-folder-svg {
+        width: 50px;
+    }
+
+    .info-popup-div {
+        display: flex;
+        width: 300px;
+        flex-direction: column;
+        position: absolute;
+        background-color: #fff;;
+        box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.1);
+        border: 1px solid #eee;;
+        padding: 20px;
+        border-radius: 8px;
+        left: 10%;
+        top: -5%;
+        margin-top: 10;
+        box-sizing: border-box;
+        z-index: 10;
+    }
+
+    .folder-icon-menu-option {
+        padding: 15px 15px;
+        width: 150px;
+        color: rgb(54, 53, 53);
+        font-size: 15px;
+        text-align: left;
+        user-select: none;
+        transition: all 0.2s ease-in-out;
+    }
+
+    .move-popup-div {
+        display: flex;
+        flex-direction: column;
+        width: 300px;
+        position: absolute;
+        background-color: #fff;;
+        box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.1);
+        border: 1px solid #eee;;
+        padding: 20px;
+        border-radius: 8px;
+        left: 10%;
+        top: -5%;
+        margin-top: 10;
+        box-sizing: border-box;
+        z-index: 10;
+    }
+
+}

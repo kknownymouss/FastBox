@@ -1,0 +1,43 @@
+.about-box-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px 40px
+}
+.about-svg-img {
+    max-width: 180px;
+    min-height: 250px;
+    margin-bottom: 20px;
+}
+
+.about-p {
+    max-width: 300px;
+    text-align: center;
+    font-size: 18px;
+    
+}
+
+.about-container-header {
+    margin: 0px 0px 15px 0px;
+    font-style: bold;
+    font-size: 26px;
+}
+
+
+@media screen and (max-width: 1440px) {
+    
+}
+
+@media screen and (max-width: 860px) {
+    
+}
+
+@media screen and (max-width: 428px) {
+    .about-p {
+        max-width: 300px;
+        text-align: center;
+        font-size: 16px;
+        
+    }
+
+}

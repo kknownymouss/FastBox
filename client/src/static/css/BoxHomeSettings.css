@@ -1,0 +1,138 @@
+.box-home-settings {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    overflow-y: auto;
+    z-index: 2;
+  }
+
+  /* width */
+.box-home-settings::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+.box-home-settings::-webkit-scrollbar-track {
+  background: lightgray;
+  border-radius: 0px;
+}
+
+/* Handle */
+.box-home-settings::-webkit-scrollbar-thumb {
+  background: rgb(91, 86, 86);
+  border-radius: 0px;
+}
+
+  .share-url-text-area {
+      /* From https://css.glass */
+    width: 90%;
+    min-height: 50px;
+    background: rgba(193, 191, 191, 0.5);
+    border-radius: 6px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(12.1px);
+    -webkit-backdrop-filter: blur(12.1px);
+    border: 1px solid rgba(193, 191, 191, 0.3);
+    resize: none;
+    font-size: 16px;
+    padding: 6px;
+    margin: 20px 0px;
+
+  }
+
+.share-url-text-area:focus {
+      outline: none;
+  }
+
+.copy-clipboard-button {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    transition: all 0.2s ease-in-out;
+    margin-left: 4em;
+    color: black;
+
+  }
+
+.copy-clipboard-button:hover {
+    filter: brightness(0.8);
+  }
+
+.password-save-input {
+    border: none;
+    padding: 3px;
+    border-bottom: 3px solid var(--light-red);
+    font-family: poppins;
+    font-weight: bold;
+    margin: 0px 40px;
+    font-size: 16px;
+}
+
+.password-save-input:focus {
+  outline: none
+}
+
+.setting-save-div {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.box-home-settings-text {
+  font-size: 16px;
+  text-decoration: none;
+}
+
+.settings-destroy-attrs {
+  font-size: 24px;
+}
+
+@media screen and (max-width: 1440px) {
+    
+}
+
+@media screen and (max-width: 860px) {
+  .password-save-input {
+    border: none;
+    padding: 3px;
+    border-bottom: 3px solid var(--light-red);
+    font-family: poppins;
+    font-weight: bold;
+    margin: 20px 0px;
+    font-size: 16px;
+}
+.setting-save-div {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+}
+
+@media screen and (max-width: 428px) {
+  .password-save-input {
+    border: none;
+    padding: 3px;
+    border-bottom: 3px solid var(--light-red);
+    font-family: poppins;
+    font-weight: bold;
+    margin: 20px 0px;
+    font-size: 16px;
+}
+.setting-save-div {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.settings-destroy-attrs {
+  font-size: 20px;
+}
+.box-home-settings-text {
+  font-size: 13px;
+
+}
+}
+

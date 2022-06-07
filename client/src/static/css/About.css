@@ -1,0 +1,23 @@
+.about-wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: 10;
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+.about-div {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.about-header {
+    font-size: 50px;
+    text-align: center;
+}

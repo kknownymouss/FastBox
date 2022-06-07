@@ -1,0 +1,10 @@
+.landing-wrap {
+    background-size: cover;
+    z-index: 0;
+    position: relative;
+    padding-bottom: 20px;
+    min-height: 100vh;
+    overflow: hidden;
+    box-sizing: border-box;
+
+}

@@ -1,0 +1,13 @@
+.active-folder {
+    background-color: #fafafa;;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 4px 0px;
+}
+
+.folder-structure-div {
+    transition: all 0.2s ease-in-out;
+}
+
+.folder-structure-div:hover {
+    background-color: rgb(188, 191, 193);
+}
+

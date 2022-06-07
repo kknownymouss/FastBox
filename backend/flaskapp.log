@@ -1,0 +1,1176 @@
+[2022-04-18 15:40:53,569] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Share URL generated successfully [52L7Am] [in routes.py: 122]
+[2022-04-18 15:41:08,201] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 15:41:08,240] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 15:42:16,173] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authenticating tokens in order to generate share URL... [52L7Am] [in routes.py: 88]
+[2022-04-18 15:42:16,192] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [52L7Am] [in routes.py: 92]
+[2022-04-18 15:42:16,196] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Full access verified. Generating share URL now... [52L7Am] [in routes.py: 96]
+[2022-04-18 15:42:17,507] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 15:42:17,520] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 15:42:17,899] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Share URL generated successfully [52L7Am] [in routes.py: 122]
+[2022-04-18 15:42:22,438] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 15:42:22,461] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 15:42:38,083] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 15:42:38,091] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 15:43:07,868] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 15:43:07,895] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 15:43:25,157] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 15:43:25,166] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 15:44:00,062] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 15:44:00,076] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 15:45:25,068] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 15:45:25,084] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 15:45:32,421] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authenticating tokens in order to generate share URL... [52L7Am] [in routes.py: 88]
+[2022-04-18 15:45:32,430] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [52L7Am] [in routes.py: 92]
+[2022-04-18 15:45:32,431] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Full access verified. Generating share URL now... [52L7Am] [in routes.py: 96]
+[2022-04-18 15:45:34,861] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Share URL generated successfully [52L7Am] [in routes.py: 122]
+[2022-04-18 15:45:39,413] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 15:45:39,425] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 15:46:12,185] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authenticating tokens in order to generate share URL... [52L7Am] [in routes.py: 88]
+[2022-04-18 15:46:12,197] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [52L7Am] [in routes.py: 92]
+[2022-04-18 15:46:12,199] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Full access verified. Generating share URL now... [52L7Am] [in routes.py: 96]
+[2022-04-18 15:46:14,081] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Share URL generated successfully [52L7Am] [in routes.py: 122]
+[2022-04-18 15:46:15,608] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 15:46:15,617] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 15:47:06,375] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Verifying share URL... [in routes.py: 33]
+[2022-04-18 15:47:06,388] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Share URL verified successfully. Assigning tokens now... [in routes.py: 37]
+[2022-04-18 15:47:07,193] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Tokens assigned successfully. [52L7Am] [in routes.py: 49]
+[2022-04-18 15:47:07,406] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 15:47:07,412] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 15:51:41,755] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 15:51:41,779] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 15:51:49,568] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authenticating tokens in order to generate share URL... [52L7Am] [in routes.py: 88]
+[2022-04-18 15:51:49,574] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [52L7Am] [in routes.py: 92]
+[2022-04-18 15:51:49,576] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Full access verified. Generating share URL now... [52L7Am] [in routes.py: 96]
+[2022-04-18 15:51:51,460] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Share URL generated successfully [52L7Am] [in routes.py: 122]
+[2022-04-18 15:51:55,736] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 15:51:55,778] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 15:52:02,055] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Verifying share URL... [in routes.py: 33]
+[2022-04-18 15:52:02,058] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Share was not verified. (Does not exist) [in routes.py: 67]
+[2022-04-18 15:56:46,552] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authenticating tokens in order to generate share URL... [52L7Am] [in routes.py: 97]
+[2022-04-18 15:56:46,587] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [52L7Am] [in routes.py: 101]
+[2022-04-18 15:56:46,589] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Full access verified. Generating share URL now... [52L7Am] [in routes.py: 105]
+[2022-04-18 15:56:54,452] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Share URL generated successfully [52L7Am] [in routes.py: 131]
+[2022-04-18 15:57:02,074] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 15:57:02,087] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 15:57:08,475] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Verifying share URL... [in routes.py: 42]
+[2022-04-18 15:57:08,481] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Share was not verified. (Does not exist) [in routes.py: 76]
+[2022-04-18 15:57:26,383] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 15:57:26,401] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 15:57:34,409] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authenticating tokens in order to generate share URL... [52L7Am] [in routes.py: 97]
+[2022-04-18 15:57:34,422] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [52L7Am] [in routes.py: 101]
+[2022-04-18 15:57:34,424] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Full access verified. Generating share URL now... [52L7Am] [in routes.py: 105]
+[2022-04-18 15:57:36,478] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Share URL generated successfully [52L7Am] [in routes.py: 131]
+[2022-04-18 15:57:38,574] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 15:57:38,590] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 15:58:27,147] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 15:58:27,159] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 15:58:37,203] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Verifying share URL... [in routes.py: 42]
+[2022-04-18 15:58:37,210] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Share URL verified successfully. Assigning tokens now... [in routes.py: 46]
+[2022-04-18 15:58:37,507] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Tokens assigned successfully. [52L7Am] [in routes.py: 58]
+[2022-04-18 15:58:37,701] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 15:58:37,709] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 15:59:28,125] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 15:59:28,133] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 15:59:58,113] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 15:59:58,126] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:00:04,108] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:00:04,138] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:00:10,090] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:00:10,105] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:00:31,094] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:00:31,107] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:00:38,287] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:00:38,432] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was unsuccessful and box contents could not accessed. [52L7Am] [in routes.py: 52]
+[2022-04-18 16:00:44,197] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:00:44,198] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was unsuccessful and box contents could not accessed. [52L7Am] [in routes.py: 52]
+[2022-04-18 16:00:55,956] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:00:55,958] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was unsuccessful and box contents could not accessed. [52L7Am] [in routes.py: 52]
+[2022-04-18 16:00:58,780] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:00:58,780] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was unsuccessful and box contents could not accessed. [52L7Am] [in routes.py: 52]
+[2022-04-18 16:00:58,865] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:00:58,866] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was unsuccessful and box contents could not accessed. [52L7Am] [in routes.py: 52]
+[2022-04-18 16:00:58,933] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:00:58,935] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was unsuccessful and box contents could not accessed. [52L7Am] [in routes.py: 52]
+[2022-04-18 16:01:11,830] 192.168.1.5 requested http://192.168.1.5:5000/connect_to_box
+INFO: Connecting to box... [52L7Am] [in routes.py: 76]
+[2022-04-18 16:01:12,944] 192.168.1.5 requested http://192.168.1.5:5000/connect_to_box
+INFO: Two factor authentication is enabled for this box. Sending email... [52L7Am] [in routes.py: 86]
+[2022-04-18 16:01:19,338] 192.168.1.5 requested http://192.168.1.5:5000/connect_to_box
+INFO: Email sent successfully. [52L7Am] [in routes.py: 91]
+[2022-04-18 16:01:42,259] 192.168.1.5 requested http://192.168.1.5:5000/connect_to_box_2fa
+INFO: Verifying 2fa code... [52L7Am] [in routes.py: 140]
+[2022-04-18 16:01:42,656] 192.168.1.5 requested http://192.168.1.5:5000/connect_to_box_2fa
+INFO: 2fa verification was successful and access is given. [52L7Am] [in routes.py: 154]
+[2022-04-18 16:01:42,743] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:01:42,763] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:02:01,102] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:02:01,119] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:02:15,081] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:02:15,090] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:02:40,862] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:02:40,876] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:03:04,327] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:03:04,344] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:03:11,092] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:03:11,107] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:03:13,475] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:03:13,485] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:03:32,090] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:03:32,108] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:03:34,756] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:03:34,782] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:03:49,794] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Verifying share URL... [in routes.py: 42]
+[2022-04-18 16:03:49,845] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Share URL verified successfully. Assigning tokens now... [in routes.py: 46]
+[2022-04-18 16:03:50,131] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Tokens assigned successfully. [52L7Am] [in routes.py: 58]
+[2022-04-18 16:03:50,274] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:03:50,284] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:03:50,917] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:03:50,927] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:03:51,012] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:03:51,064] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:03:51,214] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:03:51,226] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:03:51,312] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:03:51,320] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:03:51,380] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:03:51,391] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:03:52,378] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:03:52,407] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:03:52,998] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:03:53,009] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:03:53,144] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:03:53,156] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:03:53,295] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:03:53,308] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:03:53,419] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:03:53,437] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:03:53,484] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:03:53,495] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:03:54,533] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:03:54,542] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:03:55,251] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:03:55,253] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:03:55,269] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:03:55,272] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:03:55,381] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:03:55,392] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:03:55,509] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:03:55,529] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:03:55,586] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:03:55,596] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:03:56,700] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:03:56,711] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:04:04,364] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Verifying share URL... [in routes.py: 42]
+[2022-04-18 16:04:04,370] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Share URL verified successfully. Assigning tokens now... [in routes.py: 46]
+[2022-04-18 16:04:04,632] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Tokens assigned successfully. [52L7Am] [in routes.py: 58]
+[2022-04-18 16:04:04,959] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:04:04,974] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:04:27,925] 192.168.1.27 requested http://192.168.1.5:5000/validate_share_url
+INFO: Verifying share URL... [in routes.py: 42]
+[2022-04-18 16:04:27,932] 192.168.1.27 requested http://192.168.1.5:5000/validate_share_url
+INFO: Share URL verified successfully. Assigning tokens now... [in routes.py: 46]
+[2022-04-18 16:04:28,119] 192.168.1.27 requested http://192.168.1.5:5000/validate_share_url
+INFO: Tokens assigned successfully. [52L7Am] [in routes.py: 58]
+[2022-04-18 16:04:28,391] 192.168.1.27 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:04:28,401] 192.168.1.27 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:06:13,397] 192.168.1.7 requested http://192.168.1.5:5000/validate_share_url
+INFO: Verifying share URL... [in routes.py: 42]
+[2022-04-18 16:06:13,406] 192.168.1.7 requested http://192.168.1.5:5000/validate_share_url
+INFO: Share URL verified successfully. Assigning tokens now... [in routes.py: 46]
+[2022-04-18 16:06:13,707] 192.168.1.7 requested http://192.168.1.5:5000/validate_share_url
+INFO: Tokens assigned successfully. [52L7Am] [in routes.py: 58]
+[2022-04-18 16:06:14,348] 192.168.1.7 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:06:14,357] 192.168.1.7 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:11:11,355] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:11:11,377] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:11:44,139] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:11:44,157] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:37:48,618] 192.168.1.5 requested http://192.168.1.5:5000/destroy_share_urls
+INFO: Authenticating tokens in order to destroy share URLs... [52L7Am] [in routes.py: 168]
+[2022-04-18 16:37:48,647] 192.168.1.5 requested http://192.168.1.5:5000/destroy_share_urls
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [52L7Am] [in routes.py: 172]
+[2022-04-18 16:37:48,649] 192.168.1.5 requested http://192.168.1.5:5000/destroy_share_urls
+INFO: Full access verified. Destroying share URLs now... [52L7Am] [in routes.py: 176]
+[2022-04-18 16:37:48,835] 192.168.1.5 requested http://192.168.1.5:5000/destroy_share_urls
+INFO: Share URLs destroyed successfully [52L7Am] [in routes.py: 180]
+[2022-04-18 16:37:54,807] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:37:54,835] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:38:16,289] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Verifying share URL... [in routes.py: 42]
+[2022-04-18 16:38:16,293] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Share was not verified. (Does not exist) [in routes.py: 76]
+[2022-04-18 16:38:20,224] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authenticating tokens in order to generate share URL... [52L7Am] [in routes.py: 97]
+[2022-04-18 16:38:20,231] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [52L7Am] [in routes.py: 101]
+[2022-04-18 16:38:20,232] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Full access verified. Generating share URL now... [52L7Am] [in routes.py: 105]
+[2022-04-18 16:38:21,846] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Share URL generated successfully [52L7Am] [in routes.py: 131]
+[2022-04-18 16:38:23,483] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:38:23,494] 192.168.1.5 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:38:33,949] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Verifying share URL... [in routes.py: 42]
+[2022-04-18 16:38:33,952] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Share was not verified. (Does not exist) [in routes.py: 76]
+[2022-04-18 16:38:39,368] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Verifying share URL... [in routes.py: 42]
+[2022-04-18 16:38:39,376] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Share URL verified successfully. Assigning tokens now... [in routes.py: 46]
+[2022-04-18 16:38:39,701] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Tokens assigned successfully. [52L7Am] [in routes.py: 58]
+[2022-04-18 16:38:39,820] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Accessing box content by authenticating tokens... [52L7Am] [in routes.py: 23]
+[2022-04-18 16:38:39,827] 192.168.1.26 requested http://192.168.1.5:5000/box/52L7Am
+INFO: Authentication was successful and box contents are accessed. [52L7Am] [in routes.py: 29]
+[2022-04-18 16:38:49,498] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Verifying share URL... [in routes.py: 42]
+[2022-04-18 16:38:49,502] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Share was not verified. (Does not exist) [in routes.py: 76]
+[2022-04-18 16:40:41,763] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Authenticating tokens in order to delete box... [52L7Am] [in routes.py: 71]
+[2022-04-18 16:40:41,772] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [52L7Am] [in routes.py: 75]
+[2022-04-18 16:40:41,774] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Full access verified. Deleting box now... [52L7Am] [in routes.py: 79]
+[2022-04-18 16:40:42,012] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Box deleted successfully. [52L7Am] [in routes.py: 82]
+[2022-04-18 16:50:18,125] 192.168.1.5 requested http://192.168.1.5:5000/get_random_box_code
+INFO: Generating random box code... [in routes.py: 40]
+[2022-04-18 16:50:23,961] 192.168.1.5 requested http://192.168.1.5:5000/get_random_box_code
+INFO: Random box code generated successfully -> W4KLg1 [in routes.py: 82]
+[2022-04-18 16:50:27,021] 192.168.1.5 requested http://192.168.1.5:5000/box/W4KLg1
+INFO: Accessing box content by authenticating tokens... [W4KLg1] [in routes.py: 23]
+[2022-04-18 16:53:17,224] 192.168.1.5 requested http://192.168.1.5:5000/get_random_box_code
+INFO: Generating random box code... [in routes.py: 40]
+[2022-04-18 16:53:22,506] 192.168.1.5 requested http://192.168.1.5:5000/get_random_box_code
+INFO: Random box code generated successfully -> 3AzsWR [in routes.py: 81]
+[2022-04-18 16:53:24,557] 192.168.1.5 requested http://192.168.1.5:5000/box/3AzsWR
+INFO: Accessing box content by authenticating tokens... [3AzsWR] [in routes.py: 23]
+[2022-04-18 16:53:24,569] 192.168.1.5 requested http://192.168.1.5:5000/box/3AzsWR
+INFO: Authentication was successful and box contents are accessed. [3AzsWR] [in routes.py: 29]
+[2022-04-18 16:53:34,341] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Verifying share URL... [in routes.py: 34]
+[2022-04-18 16:53:34,351] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Share URL verified successfully. Assigning tokens now... [in routes.py: 38]
+[2022-04-18 16:53:34,733] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Tokens assigned successfully. [3AzsWR] [in routes.py: 50]
+[2022-04-18 16:53:34,899] 192.168.1.26 requested http://192.168.1.5:5000/box/3AzsWR
+INFO: Accessing box content by authenticating tokens... [3AzsWR] [in routes.py: 23]
+[2022-04-18 16:53:34,906] 192.168.1.26 requested http://192.168.1.5:5000/box/3AzsWR
+INFO: Authentication was successful and box contents are accessed. [3AzsWR] [in routes.py: 29]
+[2022-04-19 15:07:19,354] 192.168.1.5 requested http://192.168.1.5:5000/get_random_box_code
+INFO: Generating random box code... [in routes.py: 40]
+[2022-04-19 15:07:26,621] 192.168.1.5 requested http://192.168.1.5:5000/get_random_box_code
+INFO: Random box code generated successfully -> R4palp [in routes.py: 81]
+[2022-04-19 15:07:50,600] 192.168.1.5 requested http://192.168.1.5:5000/box/R4palp
+INFO: Accessing box content by authenticating tokens... [R4palp] [in routes.py: 23]
+[2022-04-19 15:07:50,611] 192.168.1.5 requested http://192.168.1.5:5000/box/R4palp
+INFO: Authentication was successful and box contents are accessed. [R4palp] [in routes.py: 29]
+[2022-04-19 15:08:03,958] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Verifying share URL... [in routes.py: 34]
+[2022-04-19 15:09:06,301] 192.168.1.5 requested http://192.168.1.5:5000/box/R4palp
+INFO: Accessing box content by authenticating tokens... [R4palp] [in routes.py: 23]
+[2022-04-19 15:09:06,320] 192.168.1.5 requested http://192.168.1.5:5000/box/R4palp
+INFO: Authentication was successful and box contents are accessed. [R4palp] [in routes.py: 29]
+[2022-04-19 15:09:10,550] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Verifying share URL... [in routes.py: 34]
+[2022-04-19 15:09:10,567] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Share URL verified successfully. Assigning tokens now... [in routes.py: 38]
+[2022-04-19 15:09:43,050] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Verifying share URL... [in routes.py: 34]
+[2022-04-19 15:09:43,139] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Share URL verified successfully. Assigning tokens now... [in routes.py: 38]
+[2022-04-19 15:09:43,381] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Tokens assigned successfully. [R4palp] [in routes.py: 50]
+[2022-04-19 15:09:43,545] 192.168.1.26 requested http://192.168.1.5:5000/box/R4palp
+INFO: Accessing box content by authenticating tokens... [R4palp] [in routes.py: 23]
+[2022-04-19 15:09:43,553] 192.168.1.26 requested http://192.168.1.5:5000/box/R4palp
+INFO: Authentication was successful and box contents are accessed. [R4palp] [in routes.py: 29]
+[2022-04-19 15:10:00,202] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authenticating tokens in order to generate share URL... [R4palp] [in routes.py: 87]
+[2022-04-19 15:10:00,205] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [R4palp] [in routes.py: 91]
+[2022-04-19 15:10:00,207] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Full access verified. Generating share URL now... [R4palp] [in routes.py: 95]
+[2022-04-19 15:10:00,382] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Share URL generated successfully [R4palp] [in routes.py: 102]
+[2022-04-19 15:10:01,184] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authenticating tokens in order to generate share URL... [R4palp] [in routes.py: 87]
+[2022-04-19 15:10:01,187] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [R4palp] [in routes.py: 91]
+[2022-04-19 15:10:01,188] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Full access verified. Generating share URL now... [R4palp] [in routes.py: 95]
+[2022-04-19 15:10:01,342] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Share URL generated successfully [R4palp] [in routes.py: 102]
+[2022-04-19 15:10:01,900] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authenticating tokens in order to generate share URL... [R4palp] [in routes.py: 87]
+[2022-04-19 15:10:01,904] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [R4palp] [in routes.py: 91]
+[2022-04-19 15:10:01,905] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Full access verified. Generating share URL now... [R4palp] [in routes.py: 95]
+[2022-04-19 15:10:02,067] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Share URL generated successfully [R4palp] [in routes.py: 102]
+[2022-04-19 15:10:02,427] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authenticating tokens in order to generate share URL... [R4palp] [in routes.py: 87]
+[2022-04-19 15:10:02,430] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [R4palp] [in routes.py: 91]
+[2022-04-19 15:10:02,435] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Full access verified. Generating share URL now... [R4palp] [in routes.py: 95]
+[2022-04-19 15:10:02,601] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Share URL generated successfully [R4palp] [in routes.py: 102]
+[2022-04-19 15:10:04,972] 192.168.1.5 requested http://192.168.1.5:5000/box/R4palp
+INFO: Accessing box content by authenticating tokens... [R4palp] [in routes.py: 23]
+[2022-04-19 15:10:04,982] 192.168.1.5 requested http://192.168.1.5:5000/box/R4palp
+INFO: Authentication was successful and box contents are accessed. [R4palp] [in routes.py: 29]
+[2022-04-19 15:10:18,617] 192.168.1.5 requested http://192.168.1.5:5000/destroy_share_urls
+INFO: Authenticating tokens in order to destroy share URLs... [R4palp] [in routes.py: 138]
+[2022-04-19 15:10:18,620] 192.168.1.5 requested http://192.168.1.5:5000/destroy_share_urls
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [R4palp] [in routes.py: 142]
+[2022-04-19 15:10:18,621] 192.168.1.5 requested http://192.168.1.5:5000/destroy_share_urls
+INFO: Full access verified. Destroying share URLs now... [R4palp] [in routes.py: 146]
+[2022-04-19 15:10:18,781] 192.168.1.5 requested http://192.168.1.5:5000/destroy_share_urls
+INFO: Share URLs destroyed successfully [R4palp] [in routes.py: 150]
+[2022-04-19 15:10:23,894] 192.168.1.5 requested http://192.168.1.5:5000/box/R4palp
+INFO: Accessing box content by authenticating tokens... [R4palp] [in routes.py: 23]
+[2022-04-19 15:10:23,900] 192.168.1.5 requested http://192.168.1.5:5000/box/R4palp
+INFO: Authentication was successful and box contents are accessed. [R4palp] [in routes.py: 29]
+[2022-04-19 15:10:30,380] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Verifying share URL... [in routes.py: 34]
+[2022-04-19 15:10:30,388] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Share URL verified successfully. Assigning tokens now... [in routes.py: 38]
+[2022-04-19 15:10:30,715] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Tokens assigned successfully. [R4palp] [in routes.py: 50]
+[2022-04-19 15:10:30,910] 192.168.1.26 requested http://192.168.1.5:5000/box/R4palp
+INFO: Accessing box content by authenticating tokens... [R4palp] [in routes.py: 23]
+[2022-04-19 15:10:30,916] 192.168.1.26 requested http://192.168.1.5:5000/box/R4palp
+INFO: Authentication was successful and box contents are accessed. [R4palp] [in routes.py: 29]
+[2022-04-19 15:10:36,718] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authenticating tokens in order to generate share URL... [R4palp] [in routes.py: 87]
+[2022-04-19 15:10:36,722] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [R4palp] [in routes.py: 91]
+[2022-04-19 15:10:36,724] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Full access verified. Generating share URL now... [R4palp] [in routes.py: 95]
+[2022-04-19 15:10:36,904] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Share URL generated successfully [R4palp] [in routes.py: 102]
+[2022-04-19 15:10:38,942] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authenticating tokens in order to generate share URL... [R4palp] [in routes.py: 87]
+[2022-04-19 15:10:38,944] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [R4palp] [in routes.py: 91]
+[2022-04-19 15:10:38,945] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Full access verified. Generating share URL now... [R4palp] [in routes.py: 95]
+[2022-04-19 15:10:39,139] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Share URL generated successfully [R4palp] [in routes.py: 102]
+[2022-04-19 15:10:40,713] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authenticating tokens in order to generate share URL... [R4palp] [in routes.py: 87]
+[2022-04-19 15:10:40,719] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [R4palp] [in routes.py: 91]
+[2022-04-19 15:10:40,720] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Full access verified. Generating share URL now... [R4palp] [in routes.py: 95]
+[2022-04-19 15:10:40,841] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Share URL generated successfully [R4palp] [in routes.py: 102]
+[2022-04-19 15:10:42,829] 192.168.1.5 requested http://192.168.1.5:5000/box/R4palp
+INFO: Accessing box content by authenticating tokens... [R4palp] [in routes.py: 23]
+[2022-04-19 15:10:42,840] 192.168.1.5 requested http://192.168.1.5:5000/box/R4palp
+INFO: Authentication was successful and box contents are accessed. [R4palp] [in routes.py: 29]
+[2022-04-19 15:10:48,259] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authenticating tokens in order to generate share URL... [R4palp] [in routes.py: 87]
+[2022-04-19 15:10:48,262] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [R4palp] [in routes.py: 91]
+[2022-04-19 15:10:48,263] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Full access verified. Generating share URL now... [R4palp] [in routes.py: 95]
+[2022-04-19 15:10:48,386] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Share URL generated successfully [R4palp] [in routes.py: 102]
+[2022-04-19 15:10:49,055] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authenticating tokens in order to generate share URL... [R4palp] [in routes.py: 87]
+[2022-04-19 15:10:49,058] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [R4palp] [in routes.py: 91]
+[2022-04-19 15:10:49,060] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Full access verified. Generating share URL now... [R4palp] [in routes.py: 95]
+[2022-04-19 15:10:49,164] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Share URL generated successfully [R4palp] [in routes.py: 102]
+[2022-04-19 15:10:52,071] 192.168.1.5 requested http://192.168.1.5:5000/box/R4palp
+INFO: Accessing box content by authenticating tokens... [R4palp] [in routes.py: 23]
+[2022-04-19 15:10:52,075] 192.168.1.5 requested http://192.168.1.5:5000/box/R4palp
+INFO: Authentication was successful and box contents are accessed. [R4palp] [in routes.py: 29]
+[2022-04-19 15:10:58,099] 192.168.1.5 requested http://192.168.1.5:5000/destroy_share_urls
+INFO: Authenticating tokens in order to destroy share URLs... [R4palp] [in routes.py: 138]
+[2022-04-19 15:10:58,102] 192.168.1.5 requested http://192.168.1.5:5000/destroy_share_urls
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [R4palp] [in routes.py: 142]
+[2022-04-19 15:10:58,103] 192.168.1.5 requested http://192.168.1.5:5000/destroy_share_urls
+INFO: Full access verified. Destroying share URLs now... [R4palp] [in routes.py: 146]
+[2022-04-19 15:10:58,232] 192.168.1.5 requested http://192.168.1.5:5000/destroy_share_urls
+INFO: Share URLs destroyed successfully [R4palp] [in routes.py: 150]
+[2022-04-19 15:11:04,632] 192.168.1.5 requested http://192.168.1.5:5000/box/R4palp
+INFO: Accessing box content by authenticating tokens... [R4palp] [in routes.py: 23]
+[2022-04-19 15:11:04,640] 192.168.1.5 requested http://192.168.1.5:5000/box/R4palp
+INFO: Authentication was successful and box contents are accessed. [R4palp] [in routes.py: 29]
+[2022-04-19 15:11:23,875] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Verifying share URL... [in routes.py: 34]
+[2022-04-19 15:11:23,882] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Share URL verified successfully. Assigning tokens now... [in routes.py: 38]
+[2022-04-19 15:11:24,079] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Tokens assigned successfully. [R4palp] [in routes.py: 50]
+[2022-04-19 15:11:24,230] 192.168.1.26 requested http://192.168.1.5:5000/box/R4palp
+INFO: Accessing box content by authenticating tokens... [R4palp] [in routes.py: 23]
+[2022-04-19 15:11:24,237] 192.168.1.26 requested http://192.168.1.5:5000/box/R4palp
+INFO: Authentication was successful and box contents are accessed. [R4palp] [in routes.py: 29]
+[2022-04-19 15:18:08,189] 192.168.1.5 requested http://192.168.1.5:5000/box/R4palp
+INFO: Accessing box content by authenticating tokens... [R4palp] [in routes.py: 23]
+[2022-04-19 15:18:08,204] 192.168.1.5 requested http://192.168.1.5:5000/box/R4palp
+INFO: Authentication was successful and box contents are accessed. [R4palp] [in routes.py: 29]
+[2022-04-19 15:20:23,500] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authenticating tokens in order to generate share URL... [R4palp] [in routes.py: 87]
+[2022-04-19 15:20:23,503] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [R4palp] [in routes.py: 91]
+[2022-04-19 15:20:23,505] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Full access verified. Generating share URL now... [R4palp] [in routes.py: 95]
+[2022-04-19 15:20:23,668] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Share URL generated successfully [R4palp] [in routes.py: 102]
+[2022-04-19 15:20:26,368] 192.168.1.5 requested http://192.168.1.5:5000/box/R4palp
+INFO: Accessing box content by authenticating tokens... [R4palp] [in routes.py: 23]
+[2022-04-19 15:20:26,376] 192.168.1.5 requested http://192.168.1.5:5000/box/R4palp
+INFO: Authentication was successful and box contents are accessed. [R4palp] [in routes.py: 29]
+[2022-04-19 15:20:50,013] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Authenticating tokens in order to delete box... [R4palp] [in routes.py: 71]
+[2022-04-19 15:20:50,017] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [R4palp] [in routes.py: 75]
+[2022-04-19 15:20:50,018] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Full access verified. Deleting box now... [R4palp] [in routes.py: 79]
+[2022-04-19 15:20:50,157] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Box deleted successfully. [R4palp] [in routes.py: 82]
+[2022-04-19 23:20:27,722] 192.168.1.5 requested http://192.168.1.5:5000/get_random_box_code
+INFO: Generating random box code... [in routes.py: 37]
+[2022-04-19 23:20:34,969] 192.168.1.5 requested http://192.168.1.5:5000/get_random_box_code
+INFO: Random box code generated successfully -> mzMFYa [in routes.py: 78]
+[2022-04-19 23:20:37,666] 192.168.1.5 requested http://192.168.1.5:5000/box/mzMFYa
+INFO: Accessing box content by authenticating tokens... [mzMFYa] [in routes.py: 23]
+[2022-04-19 23:20:37,874] 192.168.1.5 requested http://192.168.1.5:5000/box/mzMFYa
+INFO: Authentication was successful and box contents are accessed. [mzMFYa] [in routes.py: 29]
+[2022-04-19 23:20:52,239] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Verifying share URL... [in routes.py: 32]
+[2022-04-19 23:20:52,251] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Share URL verified successfully. Assigning tokens now... [in routes.py: 36]
+[2022-04-19 23:20:52,519] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Tokens assigned successfully. [mzMFYa] [in routes.py: 48]
+[2022-04-19 23:20:52,635] 192.168.1.26 requested http://192.168.1.5:5000/box/mzMFYa
+INFO: Accessing box content by authenticating tokens... [mzMFYa] [in routes.py: 23]
+[2022-04-19 23:20:52,639] 192.168.1.26 requested http://192.168.1.5:5000/box/mzMFYa
+INFO: Authentication was successful and box contents are accessed. [mzMFYa] [in routes.py: 29]
+[2022-04-20 01:28:45,770] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authenticating tokens in order to generate share URL... [mzMFYa] [in routes.py: 85]
+[2022-04-20 01:28:45,918] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Share URL could not be generated successfully due to invalid access token. (not authorized) [mzMFYa] [in routes.py: 119]
+[2022-04-20 01:29:03,017] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authenticating tokens in order to generate share URL... [mzMFYa] [in routes.py: 85]
+[2022-04-20 01:29:03,017] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Share URL could not be generated successfully due to invalid access token. (not authorized) [mzMFYa] [in routes.py: 119]
+[2022-04-20 01:29:22,313] 192.168.1.5 requested http://192.168.1.5:5000/box/mzMFYa
+INFO: Accessing box content by authenticating tokens... [mzMFYa] [in routes.py: 23]
+[2022-04-20 01:29:22,319] 192.168.1.5 requested http://192.168.1.5:5000/box/mzMFYa
+INFO: Authentication was unsuccessful and box contents could not accessed. [mzMFYa] [in routes.py: 52]
+[2022-04-20 01:29:47,744] 192.168.1.5 requested http://192.168.1.5:5000/get_random_box_code
+INFO: Generating random box code... [in routes.py: 37]
+[2022-04-20 01:29:48,463] 192.168.1.5 requested http://192.168.1.5:5000/get_random_box_code
+ERROR: Random box code could not be generated successfully. Database error. [in routes.py: 90]
+[2022-04-20 01:30:59,658] 192.168.1.5 requested http://192.168.1.5:5000/get_random_box_code
+INFO: Generating random box code... [in routes.py: 37]
+[2022-04-20 01:31:05,560] 192.168.1.5 requested http://192.168.1.5:5000/get_random_box_code
+INFO: Random box code generated successfully -> hogCHY [in routes.py: 78]
+[2022-04-20 01:31:08,578] 192.168.1.5 requested http://192.168.1.5:5000/box/hogCHY
+INFO: Accessing box content by authenticating tokens... [hogCHY] [in routes.py: 23]
+[2022-04-20 01:31:08,586] 192.168.1.5 requested http://192.168.1.5:5000/box/hogCHY
+INFO: Authentication was successful and box contents are accessed. [hogCHY] [in routes.py: 29]
+[2022-04-20 01:31:39,113] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authenticating tokens in order to generate share URL... [hogCHY] [in routes.py: 85]
+[2022-04-20 01:31:39,116] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [hogCHY] [in routes.py: 89]
+[2022-04-20 01:31:39,117] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Full access verified. Generating share URL now... [hogCHY] [in routes.py: 93]
+[2022-04-20 01:31:39,266] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Share URL generated successfully [hogCHY] [in routes.py: 100]
+[2022-04-20 01:55:11,427] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authenticating tokens in order to generate share URL... [hogCHY] [in routes.py: 85]
+[2022-04-20 01:55:11,434] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [hogCHY] [in routes.py: 89]
+[2022-04-20 01:55:11,436] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Full access verified. Generating share URL now... [hogCHY] [in routes.py: 93]
+[2022-04-20 01:55:11,523] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Share URL generated successfully [hogCHY] [in routes.py: 100]
+[2022-04-20 01:55:11,689] 192.168.1.5 requested http://192.168.1.5:5000/box/hogCHY
+INFO: Accessing box content by authenticating tokens... [hogCHY] [in routes.py: 23]
+[2022-04-20 01:55:11,694] 192.168.1.5 requested http://192.168.1.5:5000/box/hogCHY
+INFO: Authentication was successful and box contents are accessed. [hogCHY] [in routes.py: 29]
+[2022-04-20 01:55:18,772] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authenticating tokens in order to generate share URL... [hogCHY] [in routes.py: 85]
+[2022-04-20 01:55:18,774] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [hogCHY] [in routes.py: 89]
+[2022-04-20 01:55:18,776] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Full access verified. Generating share URL now... [hogCHY] [in routes.py: 93]
+[2022-04-20 01:55:18,982] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Share URL generated successfully [hogCHY] [in routes.py: 100]
+[2022-04-20 01:55:19,082] 192.168.1.5 requested http://192.168.1.5:5000/box/hogCHY
+INFO: Accessing box content by authenticating tokens... [hogCHY] [in routes.py: 23]
+[2022-04-20 01:55:19,089] 192.168.1.5 requested http://192.168.1.5:5000/box/hogCHY
+INFO: Authentication was successful and box contents are accessed. [hogCHY] [in routes.py: 29]
+[2022-04-20 02:02:52,248] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authenticating tokens in order to generate share URL... [hogCHY] [in routes.py: 85]
+[2022-04-20 02:02:52,251] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [hogCHY] [in routes.py: 89]
+[2022-04-20 02:02:52,252] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Full access verified. Generating share URL now... [hogCHY] [in routes.py: 93]
+[2022-04-20 02:02:52,459] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Share URL generated successfully [hogCHY] [in routes.py: 100]
+[2022-04-20 02:02:52,778] 192.168.1.5 requested http://192.168.1.5:5000/box/hogCHY
+INFO: Accessing box content by authenticating tokens... [hogCHY] [in routes.py: 23]
+[2022-04-20 02:02:52,785] 192.168.1.5 requested http://192.168.1.5:5000/box/hogCHY
+INFO: Authentication was successful and box contents are accessed. [hogCHY] [in routes.py: 29]
+[2022-04-20 02:04:49,646] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authenticating tokens in order to generate share URL... [hogCHY] [in routes.py: 85]
+[2022-04-20 02:04:49,649] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [hogCHY] [in routes.py: 89]
+[2022-04-20 02:04:49,650] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Full access verified. Generating share URL now... [hogCHY] [in routes.py: 93]
+[2022-04-20 02:04:49,854] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Share URL generated successfully [hogCHY] [in routes.py: 100]
+[2022-04-20 02:04:50,104] 192.168.1.5 requested http://192.168.1.5:5000/box/hogCHY
+INFO: Accessing box content by authenticating tokens... [hogCHY] [in routes.py: 23]
+[2022-04-20 02:04:50,112] 192.168.1.5 requested http://192.168.1.5:5000/box/hogCHY
+INFO: Authentication was successful and box contents are accessed. [hogCHY] [in routes.py: 29]
+[2022-04-20 02:05:22,487] 192.168.1.5 requested http://192.168.1.5:5000/save_settings
+INFO: Authenticating tokens in order to save box settings... [hogCHY] [in routes.py: 115]
+[2022-04-20 02:05:22,491] 192.168.1.5 requested http://192.168.1.5:5000/save_settings
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [hogCHY] [in routes.py: 119]
+[2022-04-20 02:05:22,493] 192.168.1.5 requested http://192.168.1.5:5000/save_settings
+INFO: Full access verified. Verifying box password now... [hogCHY] [in routes.py: 123]
+[2022-04-20 02:05:23,105] 192.168.1.5 requested http://192.168.1.5:5000/save_settings
+INFO: Box password verified, saving box settings now... [hogCHY] [in routes.py: 127]
+[2022-04-20 02:05:23,160] 192.168.1.5 requested http://192.168.1.5:5000/save_settings
+INFO: Settings saved successfully. [hogCHY] [in routes.py: 131]
+[2022-04-20 02:05:26,822] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authenticating tokens in order to generate share URL... [hogCHY] [in routes.py: 85]
+[2022-04-20 02:05:26,825] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [hogCHY] [in routes.py: 89]
+[2022-04-20 02:05:26,829] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Full access verified. Generating share URL now... [hogCHY] [in routes.py: 93]
+[2022-04-20 02:05:27,120] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Share URL generated successfully [hogCHY] [in routes.py: 100]
+[2022-04-20 02:05:27,183] 192.168.1.5 requested http://192.168.1.5:5000/box/hogCHY
+INFO: Accessing box content by authenticating tokens... [hogCHY] [in routes.py: 23]
+[2022-04-20 02:05:27,189] 192.168.1.5 requested http://192.168.1.5:5000/box/hogCHY
+INFO: Authentication was successful and box contents are accessed. [hogCHY] [in routes.py: 29]
+[2022-04-20 02:12:44,692] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authenticating tokens in order to generate share URL... [hogCHY] [in routes.py: 85]
+[2022-04-20 02:12:44,696] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [hogCHY] [in routes.py: 89]
+[2022-04-20 02:12:44,697] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Full access verified. Generating share URL now... [hogCHY] [in routes.py: 93]
+[2022-04-20 02:12:44,845] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Share URL generated successfully [hogCHY] [in routes.py: 100]
+[2022-04-20 02:14:04,120] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Verifying share URL... [in routes.py: 32]
+[2022-04-20 02:14:04,248] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Share URL verified successfully. Assigning tokens now... [in routes.py: 36]
+[2022-04-20 02:14:04,695] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Tokens assigned successfully. [hogCHY] [in routes.py: 48]
+[2022-04-20 02:14:04,914] 192.168.1.26 requested http://192.168.1.5:5000/box/hogCHY
+INFO: Accessing box content by authenticating tokens... [hogCHY] [in routes.py: 23]
+[2022-04-20 02:14:04,918] 192.168.1.26 requested http://192.168.1.5:5000/box/hogCHY
+INFO: Authentication was successful and box contents are accessed. [hogCHY] [in routes.py: 29]
+[2022-04-20 02:34:03,732] 192.168.1.5 requested http://192.168.1.5:5000/box/hogCHY
+INFO: Accessing box content by authenticating tokens... [hogCHY] [in routes.py: 23]
+[2022-04-20 02:34:03,912] 192.168.1.5 requested http://192.168.1.5:5000/box/hogCHY
+INFO: Authentication was unsuccessful and box contents could not accessed. [hogCHY] [in routes.py: 52]
+[2022-04-20 02:34:43,545] 192.168.1.5 requested http://192.168.1.5:5000/connect_to_box
+INFO: Connecting to box... [hogCHY] [in routes.py: 102]
+[2022-04-20 02:34:45,483] 192.168.1.5 requested http://192.168.1.5:5000/connect_to_box
+INFO: Connection was successful and access is given. [hogCHY] [in routes.py: 143]
+[2022-04-20 02:34:45,743] 192.168.1.5 requested http://192.168.1.5:5000/box/hogCHY
+INFO: Accessing box content by authenticating tokens... [hogCHY] [in routes.py: 23]
+[2022-04-20 02:34:45,793] 192.168.1.5 requested http://192.168.1.5:5000/box/hogCHY
+INFO: Authentication was successful and box contents are accessed. [hogCHY] [in routes.py: 29]
+[2022-04-20 02:34:52,667] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authenticating tokens in order to generate share URL... [hogCHY] [in routes.py: 85]
+[2022-04-20 02:34:52,670] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [hogCHY] [in routes.py: 89]
+[2022-04-20 02:34:52,674] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Full access verified. Generating share URL now... [hogCHY] [in routes.py: 93]
+[2022-04-20 02:34:52,908] 192.168.1.5 requested http://192.168.1.5:5000/generate_share_url
+INFO: Share URL generated successfully [hogCHY] [in routes.py: 100]
+[2022-04-20 02:34:54,369] 192.168.1.5 requested http://192.168.1.5:5000/destroy_share_urls
+INFO: Authenticating tokens in order to destroy share URLs... [hogCHY] [in routes.py: 136]
+[2022-04-20 02:34:54,372] 192.168.1.5 requested http://192.168.1.5:5000/destroy_share_urls
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [hogCHY] [in routes.py: 140]
+[2022-04-20 02:34:54,376] 192.168.1.5 requested http://192.168.1.5:5000/destroy_share_urls
+INFO: Full access verified. Destroying share URLs now... [hogCHY] [in routes.py: 144]
+[2022-04-20 02:34:54,530] 192.168.1.5 requested http://192.168.1.5:5000/destroy_share_urls
+INFO: Share URLs destroyed successfully [hogCHY] [in routes.py: 148]
+[2022-04-20 02:34:56,928] 192.168.1.5 requested http://192.168.1.5:5000/box/hogCHY
+INFO: Accessing box content by authenticating tokens... [hogCHY] [in routes.py: 23]
+[2022-04-20 02:34:56,935] 192.168.1.5 requested http://192.168.1.5:5000/box/hogCHY
+INFO: Authentication was successful and box contents are accessed. [hogCHY] [in routes.py: 29]
+[2022-04-21 01:57:41,962] 192.168.1.66 requested http://192.168.1.66:5000/get_random_box_code
+INFO: Generating random box code... [in routes.py: 36]
+[2022-04-21 01:57:50,928] 192.168.1.66 requested http://192.168.1.66:5000/get_random_box_code
+INFO: Random box code generated successfully -> ImR2RU [in routes.py: 78]
+[2022-04-21 01:57:57,358] 192.168.1.66 requested http://192.168.1.66:5000/box/ImR2RU
+INFO: Accessing box content by authenticating tokens... [ImR2RU] [in routes.py: 23]
+[2022-04-21 01:57:57,383] 192.168.1.66 requested http://192.168.1.66:5000/box/ImR2RU
+INFO: Authentication was successful and box contents are accessed. [ImR2RU] [in routes.py: 29]
+[2022-04-21 01:58:14,493] 192.168.1.66 requested http://192.168.1.66:5000/upload_files
+INFO: Authenticating tokens in order to upload files... [ImR2RU] [in routes.py: 77]
+[2022-04-21 01:58:14,500] 192.168.1.66 requested http://192.168.1.66:5000/upload_files
+INFO: Authentication was successful. Now verifying activity token to verify access to the box... [ImR2RU] [in routes.py: 81]
+[2022-04-21 01:58:14,508] 192.168.1.66 requested http://192.168.1.66:5000/upload_files
+INFO: Access verified. Uploading files now... [ImR2RU] [in routes.py: 85]
+[2022-04-21 01:58:18,251] 192.168.1.66 requested http://192.168.1.66:5000/upload_files
+INFO: Files uploaded successfully. [ImR2RU] [in routes.py: 107]
+[2022-04-21 01:58:18,328] 192.168.1.66 requested http://192.168.1.66:5000/box/ImR2RU
+INFO: Accessing box content by authenticating tokens... [ImR2RU] [in routes.py: 23]
+[2022-04-21 01:58:18,338] 192.168.1.66 requested http://192.168.1.66:5000/box/ImR2RU
+INFO: Authentication was successful and box contents are accessed. [ImR2RU] [in routes.py: 29]
+[2022-04-21 12:25:56,859] 192.168.1.5 requested http://192.168.1.5:5000/box/ImR2RU
+INFO: Accessing box content by authenticating tokens... [ImR2RU] [in routes.py: 23]
+[2022-04-21 12:25:57,180] 192.168.1.5 requested http://192.168.1.5:5000/box/ImR2RU
+INFO: Authentication was unsuccessful and box contents could not accessed. [ImR2RU] [in routes.py: 52]
+[2022-04-21 12:38:53,495] 192.168.1.5 requested http://192.168.1.5:5000/get_random_box_code
+INFO: Generating random box code... [in routes.py: 36]
+[2022-04-21 12:39:00,354] 192.168.1.5 requested http://192.168.1.5:5000/get_random_box_code
+INFO: Random box code generated successfully -> 9EM3sO [in routes.py: 78]
+[2022-04-21 12:39:02,395] 192.168.1.5 requested http://192.168.1.5:5000/box/9EM3sO
+INFO: Accessing box content by authenticating tokens... [9EM3sO] [in routes.py: 23]
+[2022-04-21 12:39:02,428] 192.168.1.5 requested http://192.168.1.5:5000/box/9EM3sO
+INFO: Authentication was successful and box contents are accessed. [9EM3sO] [in routes.py: 29]
+[2022-04-21 12:42:14,544] 192.168.1.5 requested http://192.168.1.5:5000/upload_files
+INFO: Authenticating tokens in order to upload files... [9EM3sO] [in routes.py: 77]
+[2022-04-21 12:42:14,549] 192.168.1.5 requested http://192.168.1.5:5000/upload_files
+INFO: Authentication was successful. Now verifying activity token to verify access to the box... [9EM3sO] [in routes.py: 81]
+[2022-04-21 12:42:14,551] 192.168.1.5 requested http://192.168.1.5:5000/upload_files
+INFO: Access verified. Uploading files now... [9EM3sO] [in routes.py: 85]
+[2022-04-21 12:42:32,592] 192.168.1.5 requested http://192.168.1.5:5000/upload_files
+INFO: Files uploaded successfully. [9EM3sO] [in routes.py: 107]
+[2022-04-21 12:42:32,672] 192.168.1.5 requested http://192.168.1.5:5000/box/9EM3sO
+INFO: Accessing box content by authenticating tokens... [9EM3sO] [in routes.py: 23]
+[2022-04-21 12:42:32,683] 192.168.1.5 requested http://192.168.1.5:5000/box/9EM3sO
+INFO: Authentication was successful and box contents are accessed. [9EM3sO] [in routes.py: 29]
+[2022-04-21 12:51:36,136] 192.168.1.5 requested http://192.168.1.5:5000/box/9EM3sO
+INFO: Accessing box content by authenticating tokens... [9EM3sO] [in routes.py: 25]
+[2022-04-21 12:51:36,155] 192.168.1.5 requested http://192.168.1.5:5000/box/9EM3sO
+INFO: Authentication was successful and box contents are accessed. [9EM3sO] [in routes.py: 31]
+[2022-04-21 12:51:45,819] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Authenticating tokens in order to delete box... [9EM3sO] [in routes.py: 73]
+[2022-04-21 12:51:45,825] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [9EM3sO] [in routes.py: 77]
+[2022-04-21 12:51:45,827] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Full access verified. Deleting box now... [9EM3sO] [in routes.py: 81]
+[2022-04-21 12:51:48,528] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Box deleted successfully. [9EM3sO] [in routes.py: 84]
+[2022-04-21 12:54:44,754] 192.168.1.5 requested http://192.168.1.5:5000/get_random_box_code
+INFO: Generating random box code... [in routes.py: 36]
+[2022-04-21 12:54:50,055] 192.168.1.5 requested http://192.168.1.5:5000/get_random_box_code
+INFO: Random box code generated successfully -> QiFlIN [in routes.py: 78]
+[2022-04-21 12:54:51,375] 192.168.1.5 requested http://192.168.1.5:5000/box/QiFlIN
+INFO: Accessing box content by authenticating tokens... [QiFlIN] [in routes.py: 25]
+[2022-04-21 12:54:51,386] 192.168.1.5 requested http://192.168.1.5:5000/box/QiFlIN
+INFO: Authentication was successful and box contents are accessed. [QiFlIN] [in routes.py: 31]
+[2022-04-21 12:55:17,970] 192.168.1.5 requested http://192.168.1.5:5000/upload_files
+INFO: Authenticating tokens in order to upload files... [QiFlIN] [in routes.py: 77]
+[2022-04-21 12:55:17,974] 192.168.1.5 requested http://192.168.1.5:5000/upload_files
+INFO: Authentication was successful. Now verifying activity token to verify access to the box... [QiFlIN] [in routes.py: 81]
+[2022-04-21 12:55:17,978] 192.168.1.5 requested http://192.168.1.5:5000/upload_files
+INFO: Access verified. Uploading files now... [QiFlIN] [in routes.py: 85]
+[2022-04-21 12:55:38,480] 192.168.1.5 requested http://192.168.1.5:5000/upload_files
+INFO: Files uploaded successfully. [QiFlIN] [in routes.py: 107]
+[2022-04-21 12:55:38,551] 192.168.1.5 requested http://192.168.1.5:5000/box/QiFlIN
+INFO: Accessing box content by authenticating tokens... [QiFlIN] [in routes.py: 25]
+[2022-04-21 12:55:38,557] 192.168.1.5 requested http://192.168.1.5:5000/box/QiFlIN
+INFO: Authentication was successful and box contents are accessed. [QiFlIN] [in routes.py: 31]
+[2022-04-21 12:56:40,312] 192.168.1.5 requested http://192.168.1.5:5000/upload_files
+INFO: Authenticating tokens in order to upload files... [QiFlIN] [in routes.py: 77]
+[2022-04-21 12:56:40,324] 192.168.1.5 requested http://192.168.1.5:5000/upload_files
+INFO: Authentication was successful. Now verifying activity token to verify access to the box... [QiFlIN] [in routes.py: 81]
+[2022-04-21 12:56:40,327] 192.168.1.5 requested http://192.168.1.5:5000/upload_files
+INFO: Access verified. Uploading files now... [QiFlIN] [in routes.py: 85]
+[2022-04-21 12:56:40,329] 192.168.1.5 requested http://192.168.1.5:5000/upload_files
+ERROR: Files could not be uploaded successfully. Cloudinary issue [QiFlIN] [in routes.py: 94]
+[2022-04-21 12:57:34,153] 192.168.1.5 requested http://192.168.1.5:5000/upload_files
+INFO: Authenticating tokens in order to upload files... [QiFlIN] [in routes.py: 77]
+[2022-04-21 12:57:34,166] 192.168.1.5 requested http://192.168.1.5:5000/upload_files
+INFO: Authentication was successful. Now verifying activity token to verify access to the box... [QiFlIN] [in routes.py: 81]
+[2022-04-21 12:57:34,169] 192.168.1.5 requested http://192.168.1.5:5000/upload_files
+INFO: Access verified. Uploading files now... [QiFlIN] [in routes.py: 85]
+[2022-04-21 12:57:44,404] 192.168.1.5 requested http://192.168.1.5:5000/upload_files
+INFO: Files uploaded successfully. [QiFlIN] [in routes.py: 107]
+[2022-04-21 12:57:44,480] 192.168.1.5 requested http://192.168.1.5:5000/box/QiFlIN
+INFO: Accessing box content by authenticating tokens... [QiFlIN] [in routes.py: 25]
+[2022-04-21 12:57:44,490] 192.168.1.5 requested http://192.168.1.5:5000/box/QiFlIN
+INFO: Authentication was successful and box contents are accessed. [QiFlIN] [in routes.py: 31]
+[2022-04-21 12:58:08,709] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Authenticating tokens in order to delete box... [QiFlIN] [in routes.py: 73]
+[2022-04-21 12:58:08,715] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [QiFlIN] [in routes.py: 77]
+[2022-04-21 12:58:08,716] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Full access verified. Deleting box now... [QiFlIN] [in routes.py: 81]
+[2022-04-21 12:58:10,856] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+ERROR: Box could not be deleted successfully. Database error [QiFlIN] [in routes.py: 88]
+[2022-04-21 12:59:05,495] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Authenticating tokens in order to delete box... [QiFlIN] [in routes.py: 73]
+[2022-04-21 12:59:05,505] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [QiFlIN] [in routes.py: 77]
+[2022-04-21 12:59:05,507] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Full access verified. Deleting box now... [QiFlIN] [in routes.py: 81]
+[2022-04-21 12:59:06,542] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Box deleted successfully. [QiFlIN] [in routes.py: 84]
+[2022-04-21 12:59:35,075] 192.168.1.5 requested http://192.168.1.5:5000/get_random_box_code
+INFO: Generating random box code... [in routes.py: 36]
+[2022-04-21 12:59:39,905] 192.168.1.5 requested http://192.168.1.5:5000/get_random_box_code
+INFO: Random box code generated successfully -> 3TAUin [in routes.py: 78]
+[2022-04-21 12:59:42,850] 192.168.1.5 requested http://192.168.1.5:5000/box/3TAUin
+INFO: Accessing box content by authenticating tokens... [3TAUin] [in routes.py: 25]
+[2022-04-21 12:59:42,866] 192.168.1.5 requested http://192.168.1.5:5000/box/3TAUin
+INFO: Authentication was successful and box contents are accessed. [3TAUin] [in routes.py: 31]
+[2022-04-21 12:59:50,472] 192.168.1.5 requested http://192.168.1.5:5000/upload_files
+INFO: Authenticating tokens in order to upload files... [3TAUin] [in routes.py: 77]
+[2022-04-21 12:59:50,479] 192.168.1.5 requested http://192.168.1.5:5000/upload_files
+INFO: Authentication was successful. Now verifying activity token to verify access to the box... [3TAUin] [in routes.py: 81]
+[2022-04-21 12:59:50,483] 192.168.1.5 requested http://192.168.1.5:5000/upload_files
+INFO: Access verified. Uploading files now... [3TAUin] [in routes.py: 85]
+[2022-04-21 12:59:55,198] 192.168.1.5 requested http://192.168.1.5:5000/upload_files
+INFO: Files uploaded successfully. [3TAUin] [in routes.py: 107]
+[2022-04-21 12:59:55,289] 192.168.1.5 requested http://192.168.1.5:5000/box/3TAUin
+INFO: Accessing box content by authenticating tokens... [3TAUin] [in routes.py: 25]
+[2022-04-21 12:59:55,297] 192.168.1.5 requested http://192.168.1.5:5000/box/3TAUin
+INFO: Authentication was successful and box contents are accessed. [3TAUin] [in routes.py: 31]
+[2022-04-21 13:00:26,247] 192.168.1.5 requested http://192.168.1.5:5000/destroy_share_urls
+INFO: Authenticating tokens in order to destroy share URLs... [3TAUin] [in routes.py: 136]
+[2022-04-21 13:00:26,255] 192.168.1.5 requested http://192.168.1.5:5000/destroy_share_urls
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [3TAUin] [in routes.py: 140]
+[2022-04-21 13:00:26,259] 192.168.1.5 requested http://192.168.1.5:5000/destroy_share_urls
+INFO: Full access verified. Destroying share URLs now... [3TAUin] [in routes.py: 144]
+[2022-04-21 13:00:26,264] 192.168.1.5 requested http://192.168.1.5:5000/destroy_share_urls
+INFO: Share URLs destroyed successfully [3TAUin] [in routes.py: 148]
+[2022-04-21 13:00:30,849] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Authenticating tokens in order to delete box... [3TAUin] [in routes.py: 73]
+[2022-04-21 13:00:30,853] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [3TAUin] [in routes.py: 77]
+[2022-04-21 13:00:30,854] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Full access verified. Deleting box now... [3TAUin] [in routes.py: 81]
+[2022-04-21 13:00:32,316] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+ERROR: Box could not be deleted successfully. Database error [3TAUin] [in routes.py: 88]
+[2022-04-21 13:01:04,203] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Authenticating tokens in order to delete box... [3TAUin] [in routes.py: 73]
+[2022-04-21 13:01:04,214] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [3TAUin] [in routes.py: 77]
+[2022-04-21 13:01:04,216] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Full access verified. Deleting box now... [3TAUin] [in routes.py: 81]
+[2022-04-21 13:01:05,174] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+ERROR: Box could not be deleted successfully. Database error [3TAUin] [in routes.py: 88]
+[2022-04-21 13:05:19,143] 192.168.1.5 requested http://192.168.1.5:5000/get_random_box_code
+INFO: Generating random box code... [in routes.py: 36]
+[2022-04-21 13:05:23,354] 192.168.1.5 requested http://192.168.1.5:5000/get_random_box_code
+INFO: Random box code generated successfully -> WG3dyw [in routes.py: 78]
+[2022-04-21 13:05:24,122] 192.168.1.5 requested http://192.168.1.5:5000/box/WG3dyw
+INFO: Accessing box content by authenticating tokens... [WG3dyw] [in routes.py: 25]
+[2022-04-21 13:05:24,129] 192.168.1.5 requested http://192.168.1.5:5000/box/WG3dyw
+INFO: Authentication was successful and box contents are accessed. [WG3dyw] [in routes.py: 31]
+[2022-04-21 13:06:26,376] 192.168.1.5 requested http://192.168.1.5:5000/upload_files
+INFO: Authenticating tokens in order to upload files... [WG3dyw] [in routes.py: 77]
+[2022-04-21 13:06:26,381] 192.168.1.5 requested http://192.168.1.5:5000/upload_files
+INFO: Authentication was successful. Now verifying activity token to verify access to the box... [WG3dyw] [in routes.py: 81]
+[2022-04-21 13:06:26,384] 192.168.1.5 requested http://192.168.1.5:5000/upload_files
+INFO: Access verified. Uploading files now... [WG3dyw] [in routes.py: 85]
+[2022-04-21 13:06:37,153] 192.168.1.5 requested http://192.168.1.5:5000/upload_files
+INFO: Files uploaded successfully. [WG3dyw] [in routes.py: 107]
+[2022-04-21 13:06:37,213] 192.168.1.5 requested http://192.168.1.5:5000/box/WG3dyw
+INFO: Accessing box content by authenticating tokens... [WG3dyw] [in routes.py: 25]
+[2022-04-21 13:06:37,222] 192.168.1.5 requested http://192.168.1.5:5000/box/WG3dyw
+INFO: Authentication was successful and box contents are accessed. [WG3dyw] [in routes.py: 31]
+[2022-04-21 13:09:40,331] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Authenticating tokens in order to delete box... [WG3dyw] [in routes.py: 73]
+[2022-04-21 13:09:40,338] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [WG3dyw] [in routes.py: 77]
+[2022-04-21 13:09:40,340] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Full access verified. Deleting box now... [WG3dyw] [in routes.py: 81]
+[2022-04-21 13:09:41,691] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Box deleted successfully. [WG3dyw] [in routes.py: 84]
+[2022-04-21 13:11:01,021] 192.168.1.5 requested http://192.168.1.5:5000/get_random_box_code
+INFO: Generating random box code... [in routes.py: 36]
+[2022-04-21 13:11:05,118] 192.168.1.5 requested http://192.168.1.5:5000/get_random_box_code
+INFO: Random box code generated successfully -> W2h6yg [in routes.py: 78]
+[2022-04-21 13:11:20,269] 192.168.1.5 requested http://192.168.1.5:5000/box/W2h6yg
+INFO: Accessing box content by authenticating tokens... [W2h6yg] [in routes.py: 25]
+[2022-04-21 13:11:20,274] 192.168.1.5 requested http://192.168.1.5:5000/box/W2h6yg
+INFO: Authentication was successful and box contents are accessed. [W2h6yg] [in routes.py: 31]
+[2022-04-21 13:11:29,093] 192.168.1.5 requested http://192.168.1.5:5000/upload_files
+INFO: Authenticating tokens in order to upload files... [W2h6yg] [in routes.py: 77]
+[2022-04-21 13:11:29,097] 192.168.1.5 requested http://192.168.1.5:5000/upload_files
+INFO: Authentication was successful. Now verifying activity token to verify access to the box... [W2h6yg] [in routes.py: 81]
+[2022-04-21 13:11:29,102] 192.168.1.5 requested http://192.168.1.5:5000/upload_files
+INFO: Access verified. Uploading files now... [W2h6yg] [in routes.py: 85]
+[2022-04-21 13:11:32,016] 192.168.1.5 requested http://192.168.1.5:5000/upload_files
+INFO: Files uploaded successfully. [W2h6yg] [in routes.py: 107]
+[2022-04-21 13:11:32,072] 192.168.1.5 requested http://192.168.1.5:5000/box/W2h6yg
+INFO: Accessing box content by authenticating tokens... [W2h6yg] [in routes.py: 25]
+[2022-04-21 13:11:32,080] 192.168.1.5 requested http://192.168.1.5:5000/box/W2h6yg
+INFO: Authentication was successful and box contents are accessed. [W2h6yg] [in routes.py: 31]
+[2022-04-21 13:11:54,018] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Authenticating tokens in order to delete box... [W2h6yg] [in routes.py: 73]
+[2022-04-21 13:11:54,022] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [W2h6yg] [in routes.py: 77]
+[2022-04-21 13:11:54,023] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Full access verified. Deleting box now... [W2h6yg] [in routes.py: 81]
+[2022-04-21 13:11:54,955] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Box deleted successfully. [W2h6yg] [in routes.py: 84]
+[2022-04-21 14:18:03,091] 192.168.1.5 requested http://192.168.1.5:5000/get_random_box_code
+INFO: Generating random box code... [in routes.py: 36]
+[2022-04-21 14:18:11,367] 192.168.1.5 requested http://192.168.1.5:5000/get_random_box_code
+INFO: Random box code generated successfully -> nf51Pl [in routes.py: 78]
+[2022-04-21 14:18:13,687] 192.168.1.5 requested http://192.168.1.5:5000/box/nf51Pl
+INFO: Accessing box content by authenticating tokens... [nf51Pl] [in routes.py: 25]
+[2022-04-21 14:18:13,767] 192.168.1.5 requested http://192.168.1.5:5000/box/nf51Pl
+INFO: Authentication was successful and box contents are accessed. [nf51Pl] [in routes.py: 31]
+[2022-04-21 14:18:25,676] 192.168.1.5 requested http://192.168.1.5:5000/get_random_box_code
+INFO: Generating random box code... [in routes.py: 36]
+[2022-04-21 14:18:30,352] 192.168.1.5 requested http://192.168.1.5:5000/get_random_box_code
+INFO: Random box code generated successfully -> Wk2LRt [in routes.py: 78]
+[2022-04-21 14:18:31,628] 192.168.1.5 requested http://192.168.1.5:5000/box/Wk2LRt
+INFO: Accessing box content by authenticating tokens... [Wk2LRt] [in routes.py: 25]
+[2022-04-21 14:18:31,633] 192.168.1.5 requested http://192.168.1.5:5000/box/Wk2LRt
+INFO: Authentication was successful and box contents are accessed. [Wk2LRt] [in routes.py: 31]
+[2022-04-21 14:20:28,981] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Authenticating tokens in order to delete box... [Wk2LRt] [in routes.py: 73]
+[2022-04-21 14:20:28,985] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [Wk2LRt] [in routes.py: 77]
+[2022-04-21 14:20:28,987] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Full access verified. Deleting box now... [Wk2LRt] [in routes.py: 81]
+[2022-04-21 14:20:30,801] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Box deleted successfully. [Wk2LRt] [in routes.py: 84]
+[2022-04-21 14:23:36,825] 192.168.1.5 requested http://192.168.1.5:5000/get_random_box_code
+INFO: Generating random box code... [in routes.py: 36]
+[2022-04-21 14:23:42,342] 192.168.1.5 requested http://192.168.1.5:5000/get_random_box_code
+INFO: Random box code generated successfully -> Lv5EQU [in routes.py: 78]
+[2022-04-21 14:24:40,279] 192.168.1.5 requested http://192.168.1.5:5000/box/Lv5EQU
+INFO: Accessing box content by authenticating tokens... [Lv5EQU] [in routes.py: 26]
+[2022-04-21 14:24:40,289] 192.168.1.5 requested http://192.168.1.5:5000/box/Lv5EQU
+INFO: Authentication was successful and box contents are accessed. [Lv5EQU] [in routes.py: 32]
+[2022-04-21 14:25:16,645] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Authenticating tokens in order to delete box... [Lv5EQU] [in routes.py: 74]
+[2022-04-21 14:25:16,648] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [Lv5EQU] [in routes.py: 78]
+[2022-04-21 14:25:16,649] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Full access verified. Deleting box now... [Lv5EQU] [in routes.py: 82]
+[2022-04-21 14:25:18,042] 192.168.1.5 requested http://192.168.1.5:5000/delete_box
+INFO: Box deleted successfully. [Lv5EQU] [in routes.py: 85]
+[2022-04-21 14:29:43,451] 192.168.1.5 requested http://192.168.1.5:5000/get_random_box_code
+INFO: Generating random box code... [in routes.py: 36]
+[2022-04-21 14:29:48,212] 192.168.1.5 requested http://192.168.1.5:5000/get_random_box_code
+INFO: Random box code generated successfully -> WewoQK [in routes.py: 78]
+[2022-04-21 14:30:13,555] 192.168.1.5 requested http://192.168.1.5:5000/box/WewoQK
+INFO: Accessing box content by authenticating tokens... [WewoQK] [in routes.py: 26]
+[2022-04-21 14:30:13,566] 192.168.1.5 requested http://192.168.1.5:5000/box/WewoQK
+INFO: Authentication was successful and box contents are accessed. [WewoQK] [in routes.py: 32]
+[2022-04-21 14:52:41,161] 192.168.1.5 requested http://192.168.1.5:5000/get_random_box_code
+INFO: Generating random box code... [in routes.py: 36]
+[2022-04-21 14:52:47,568] 192.168.1.5 requested http://192.168.1.5:5000/get_random_box_code
+INFO: Random box code generated successfully -> 8F0rXP [in routes.py: 78]
+[2022-04-21 14:52:49,959] 192.168.1.5 requested http://192.168.1.5:5000/box/8F0rXP
+INFO: Accessing box content by authenticating tokens... [8F0rXP] [in routes.py: 26]
+[2022-04-21 14:52:49,984] 192.168.1.5 requested http://192.168.1.5:5000/box/8F0rXP
+INFO: Authentication was successful and box contents are accessed. [8F0rXP] [in routes.py: 32]
+[2022-04-21 14:53:26,194] 192.168.1.5 requested http://192.168.1.5:5000/get_random_box_code
+INFO: Generating random box code... [in routes.py: 36]
+[2022-04-21 14:53:30,322] 192.168.1.5 requested http://192.168.1.5:5000/get_random_box_code
+INFO: Random box code generated successfully -> s47YEc [in routes.py: 78]
+[2022-04-21 14:53:31,941] 192.168.1.5 requested http://192.168.1.5:5000/box/s47YEc
+INFO: Accessing box content by authenticating tokens... [s47YEc] [in routes.py: 26]
+[2022-04-21 14:53:31,952] 192.168.1.5 requested http://192.168.1.5:5000/box/s47YEc
+INFO: Authentication was successful and box contents are accessed. [s47YEc] [in routes.py: 32]
+[2022-04-21 14:53:44,389] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Verifying share URL... [in routes.py: 32]
+[2022-04-21 14:53:44,401] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Share URL verified successfully. Assigning tokens now... [in routes.py: 36]
+[2022-04-21 14:53:44,703] 192.168.1.26 requested http://192.168.1.5:5000/validate_share_url
+INFO: Tokens assigned successfully. [s47YEc] [in routes.py: 48]
+[2022-04-21 14:53:44,870] 192.168.1.26 requested http://192.168.1.5:5000/box/s47YEc
+INFO: Accessing box content by authenticating tokens... [s47YEc] [in routes.py: 26]
+[2022-04-21 14:53:44,875] 192.168.1.26 requested http://192.168.1.5:5000/box/s47YEc
+INFO: Authentication was successful and box contents are accessed. [s47YEc] [in routes.py: 32]
+[2022-04-22 15:33:07,868] 192.168.1.11 requested http://192.168.1.11:5000/get_random_box_code
+INFO: Generating random box code... [in routes.py: 36]
+[2022-04-22 15:33:23,175] 192.168.1.11 requested http://192.168.1.11:5000/get_random_box_code
+INFO: Random box code generated successfully -> F8pPDB [in routes.py: 78]
+[2022-04-22 15:33:27,025] 192.168.1.11 requested http://192.168.1.11:5000/box/F8pPDB
+INFO: Accessing box content by authenticating tokens... [F8pPDB] [in routes.py: 26]
+[2022-04-22 15:33:27,124] 192.168.1.11 requested http://192.168.1.11:5000/box/F8pPDB
+INFO: Authentication was successful and box contents are accessed. [F8pPDB] [in routes.py: 32]
+[2022-04-22 15:34:30,648] 192.168.1.11 requested http://192.168.1.11:5000/upload_files
+INFO: Authenticating tokens in order to upload files... [F8pPDB] [in routes.py: 77]
+[2022-04-22 15:34:30,657] 192.168.1.11 requested http://192.168.1.11:5000/upload_files
+INFO: Authentication was successful. Now verifying activity token to verify access to the box... [F8pPDB] [in routes.py: 81]
+[2022-04-22 15:34:30,664] 192.168.1.11 requested http://192.168.1.11:5000/upload_files
+INFO: Access verified. Uploading files now... [F8pPDB] [in routes.py: 85]
+[2022-04-22 15:34:32,834] 192.168.1.11 requested http://192.168.1.11:5000/upload_files
+INFO: Files uploaded successfully. [F8pPDB] [in routes.py: 107]
+[2022-04-22 15:34:32,925] 192.168.1.11 requested http://192.168.1.11:5000/box/F8pPDB
+INFO: Accessing box content by authenticating tokens... [F8pPDB] [in routes.py: 26]
+[2022-04-22 15:34:32,932] 192.168.1.11 requested http://192.168.1.11:5000/box/F8pPDB
+INFO: Authentication was successful and box contents are accessed. [F8pPDB] [in routes.py: 32]
+[2022-04-22 15:35:06,462] 192.168.1.6 requested http://192.168.1.11:5000/validate_share_url
+INFO: Verifying share URL... [in routes.py: 32]
+[2022-04-22 15:35:06,473] 192.168.1.6 requested http://192.168.1.11:5000/validate_share_url
+INFO: Share URL verified successfully. Assigning tokens now... [in routes.py: 36]
+[2022-04-22 15:35:06,817] 192.168.1.6 requested http://192.168.1.11:5000/validate_share_url
+INFO: Tokens assigned successfully. [F8pPDB] [in routes.py: 48]
+[2022-04-22 15:35:07,080] 192.168.1.6 requested http://192.168.1.11:5000/box/F8pPDB
+INFO: Accessing box content by authenticating tokens... [F8pPDB] [in routes.py: 26]
+[2022-04-22 15:35:07,085] 192.168.1.6 requested http://192.168.1.11:5000/box/F8pPDB
+INFO: Authentication was successful and box contents are accessed. [F8pPDB] [in routes.py: 32]
+[2022-04-22 22:17:14,169] 192.168.1.11 requested http://192.168.1.11:5000/box/F8pPDB
+INFO: Accessing box content by authenticating tokens... [F8pPDB] [in routes.py: 26]
+[2022-04-22 22:17:14,377] 192.168.1.11 requested http://192.168.1.11:5000/box/F8pPDB
+INFO: Authentication was unsuccessful and box contents could not accessed. [F8pPDB] [in routes.py: 55]
+[2022-04-22 22:18:31,161] 192.168.1.11 requested http://192.168.1.11:5000/box/F8pPDB
+INFO: Accessing box content by authenticating tokens... [F8pPDB] [in routes.py: 26]
+[2022-04-22 22:18:31,161] 192.168.1.11 requested http://192.168.1.11:5000/box/F8pPDB
+INFO: Authentication was unsuccessful and box contents could not accessed. [F8pPDB] [in routes.py: 55]
+[2022-04-22 22:37:40,918] 192.168.1.11 requested http://192.168.1.11:5000/connect_to_box
+INFO: Connecting to box... [F8pPDB] [in routes.py: 102]
+[2022-04-22 22:37:41,700] 192.168.1.11 requested http://192.168.1.11:5000/connect_to_box
+INFO: Connection was successful and access is given. [F8pPDB] [in routes.py: 143]
+[2022-04-22 22:37:41,827] 192.168.1.11 requested http://192.168.1.11:5000/box/F8pPDB
+INFO: Accessing box content by authenticating tokens... [F8pPDB] [in routes.py: 26]
+[2022-04-22 22:37:41,831] 192.168.1.11 requested http://192.168.1.11:5000/box/F8pPDB
+INFO: Authentication was successful and box contents are accessed. [F8pPDB] [in routes.py: 32]
+[2022-04-22 22:37:56,929] 192.168.1.5 requested http://192.168.1.11:5000/validate_share_url
+INFO: Verifying share URL... [in routes.py: 32]
+[2022-04-22 22:37:56,940] 192.168.1.5 requested http://192.168.1.11:5000/validate_share_url
+INFO: Share URL verified successfully. Assigning tokens now... [in routes.py: 36]
+[2022-04-22 22:37:57,201] 192.168.1.5 requested http://192.168.1.11:5000/validate_share_url
+INFO: Tokens assigned successfully. [F8pPDB] [in routes.py: 48]
+[2022-04-22 22:37:57,548] 192.168.1.5 requested http://192.168.1.11:5000/box/F8pPDB
+INFO: Accessing box content by authenticating tokens... [F8pPDB] [in routes.py: 26]
+[2022-04-22 22:37:57,556] 192.168.1.5 requested http://192.168.1.11:5000/box/F8pPDB
+INFO: Authentication was successful and box contents are accessed. [F8pPDB] [in routes.py: 32]
+[2022-04-22 22:39:53,953] 192.168.1.5 requested http://192.168.1.11:5000/box/F8pPDB
+INFO: Accessing box content by authenticating tokens... [F8pPDB] [in routes.py: 26]
+[2022-04-22 22:39:53,963] 192.168.1.5 requested http://192.168.1.11:5000/box/F8pPDB
+INFO: Authentication was successful and box contents are accessed. [F8pPDB] [in routes.py: 32]
+[2022-04-22 22:46:26,483] 192.168.1.14 requested http://192.168.1.11:5000/validate_share_url
+INFO: Verifying share URL... [in routes.py: 32]
+[2022-04-22 22:46:26,491] 192.168.1.14 requested http://192.168.1.11:5000/validate_share_url
+INFO: Share URL verified successfully. Assigning tokens now... [in routes.py: 36]
+[2022-04-22 22:46:26,781] 192.168.1.14 requested http://192.168.1.11:5000/validate_share_url
+INFO: Tokens assigned successfully. [F8pPDB] [in routes.py: 48]
+[2022-04-22 22:46:27,093] 192.168.1.14 requested http://192.168.1.11:5000/box/F8pPDB
+INFO: Accessing box content by authenticating tokens... [F8pPDB] [in routes.py: 26]
+[2022-04-22 22:46:27,100] 192.168.1.14 requested http://192.168.1.11:5000/box/F8pPDB
+INFO: Authentication was successful and box contents are accessed. [F8pPDB] [in routes.py: 32]
+[2022-04-22 22:46:45,383] 192.168.1.14 requested http://192.168.1.11:5000/upload_files
+INFO: Authenticating tokens in order to upload files... [F8pPDB] [in routes.py: 77]
+[2022-04-22 22:46:45,386] 192.168.1.14 requested http://192.168.1.11:5000/upload_files
+INFO: Authentication was successful. Now verifying activity token to verify access to the box... [F8pPDB] [in routes.py: 81]
+[2022-04-22 22:46:45,391] 192.168.1.14 requested http://192.168.1.11:5000/upload_files
+INFO: Access verified. Uploading files now... [F8pPDB] [in routes.py: 85]
+[2022-04-22 22:46:58,518] 192.168.1.14 requested http://192.168.1.11:5000/upload_files
+INFO: Files uploaded successfully. [F8pPDB] [in routes.py: 107]
+[2022-04-22 22:46:58,755] 192.168.1.14 requested http://192.168.1.11:5000/box/F8pPDB
+INFO: Accessing box content by authenticating tokens... [F8pPDB] [in routes.py: 26]
+[2022-04-22 22:46:58,759] 192.168.1.14 requested http://192.168.1.11:5000/box/F8pPDB
+INFO: Authentication was successful and box contents are accessed. [F8pPDB] [in routes.py: 32]
+[2022-04-22 22:47:05,963] 192.168.1.5 requested http://192.168.1.11:5000/box/F8pPDB
+INFO: Accessing box content by authenticating tokens... [F8pPDB] [in routes.py: 26]
+[2022-04-22 22:47:05,969] 192.168.1.5 requested http://192.168.1.11:5000/box/F8pPDB
+INFO: Authentication was successful and box contents are accessed. [F8pPDB] [in routes.py: 32]
+[2022-04-22 22:48:20,772] 192.168.1.11 requested http://192.168.1.11:5000/save_settings
+INFO: Authenticating tokens in order to save box settings... [F8pPDB] [in routes.py: 118]
+[2022-04-22 22:48:20,776] 192.168.1.11 requested http://192.168.1.11:5000/save_settings
+INFO: Authentication was successful. Now verifying activity token to verify full access to the box... [F8pPDB] [in routes.py: 122]
+[2022-04-22 22:48:20,777] 192.168.1.11 requested http://192.168.1.11:5000/save_settings
+INFO: Full access verified. Verifying box password now... [F8pPDB] [in routes.py: 126]
+[2022-04-22 22:48:21,179] 192.168.1.11 requested http://192.168.1.11:5000/save_settings
+INFO: Box password verified, saving box settings now... [F8pPDB] [in routes.py: 130]
+[2022-04-22 22:48:21,375] 192.168.1.11 requested http://192.168.1.11:5000/save_settings
+INFO: Settings saved successfully. [F8pPDB] [in routes.py: 134]
+[2022-04-22 22:48:48,183] 192.168.1.11 requested http://192.168.1.11:5000/connect_to_box
+INFO: Connecting to box... [F8pPDB] [in routes.py: 102]
+[2022-04-22 22:48:48,632] 192.168.1.11 requested http://192.168.1.11:5000/connect_to_box
+INFO: Two factor authentication is enabled for this box. Sending email... [F8pPDB] [in routes.py: 112]
+[2022-04-22 22:48:53,184] 192.168.1.11 requested http://192.168.1.11:5000/connect_to_box
+INFO: Email sent successfully. [F8pPDB] [in routes.py: 117]
+[2022-04-22 22:49:18,441] 192.168.1.11 requested http://192.168.1.11:5000/connect_to_box_2fa
+INFO: Verifying 2fa code... [F8pPDB] [in routes.py: 166]
+[2022-04-22 22:49:18,688] 192.168.1.11 requested http://192.168.1.11:5000/connect_to_box_2fa
+INFO: 2fa verification was successful and access is given. [F8pPDB] [in routes.py: 180]
+[2022-04-22 22:49:18,768] 192.168.1.11 requested http://192.168.1.11:5000/box/F8pPDB
+INFO: Accessing box content by authenticating tokens... [F8pPDB] [in routes.py: 26]
+[2022-04-22 22:49:18,772] 192.168.1.11 requested http://192.168.1.11:5000/box/F8pPDB
+INFO: Authentication was successful and box contents are accessed. [F8pPDB] [in routes.py: 32]

@@ -1,0 +1,298 @@
+.box-home-wrap {
+    display: flex;
+    height: 100vh;
+    box-sizing: border-box;
+    overflow-y: hidden;
+}
+
+.box-home-side-bar {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    background-color: lightgray;
+    height: 100%;
+    box-sizing: border-box;
+    padding: 15px;
+    overflow-y: auto;
+}
+
+/* width */
+.box-home-side-bar::-webkit-scrollbar {
+  width: 6px;
+}
+
+/* Track */
+.box-home-side-bar::-webkit-scrollbar-track {
+  background: #eee;
+  border-radius: 4px;
+}
+
+/* Handle */
+.box-home-side-bar::-webkit-scrollbar-thumb {
+  background: darkgrey;
+  border-radius: 4px;
+}
+
+.box-home-display {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    background-color: white;
+    box-sizing: border-box;
+    overflow-y: hidden;
+    height: 100%;
+}
+
+.box-home-top-bar {
+    display: flex;
+    padding: 40px 15px 10px 15px;
+    justify-content: space-between;
+    border-bottom: 1px solid lightgray;
+    z-index: 10;
+}
+
+.box-home-files {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    padding: 30px;
+    overflow-y: auto;
+    z-index: 2;
+    box-sizing: border-box;
+    flex: 1 1;
+    align-content: flex-start;
+}
+
+/* width */
+.box-home-files::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+.box-home-files::-webkit-scrollbar-track {
+  background: lightgray;
+  border-radius: 0px;
+}
+
+/* Handle */
+.box-home-files::-webkit-scrollbar-thumb {
+  background: rgb(91, 86, 86);
+  border-radius: 0px;
+}
+
+.box-home-files-inline {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    overflow-y: auto;
+    min-height: 80vh
+}
+
+/* width */
+.box-home-files-inline::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+.box-home-files-inline::-webkit-scrollbar-track {
+  background: lightgray;
+  border-radius: 0px;
+}
+
+/* Handle */
+.box-home-files-inline::-webkit-scrollbar-thumb {
+  background: rgb(91, 86, 86);
+  border-radius: 0px;
+}
+
+.upload-folder-div {
+    transition: all 0.2s ease-in-out;
+    position: relative
+}
+
+.upload-folder-div:hover {
+    background-color: rgb(200, 204, 207);
+    
+}
+
+.new-folder-popup-div {
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    position: absolute;
+    background-color: #fff;;
+    box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.1);
+    border: 1px solid #eee;;
+    padding: 20px;
+    border-radius: 8px;
+    top: 120%;
+    right: -10%;
+    margin-top: 10;
+    box-sizing: border-box;
+    
+
+}
+
+.new-folder-popup-input-icon {
+    background-color: rgb(238, 231, 231);
+    border-radius: 5px 0px 0px 5px;
+    padding: 8px 8px 0px 8px;
+    border: 1px solid rgb(198, 194, 194);
+    border-right: none;
+}
+
+.new-folder-popup-input {
+    width: 100%;
+    font-size: 16px;
+    background-color: rgb(238, 231, 231);
+    border: 1px solid rgb(198, 194, 194);
+    border-radius: 0px 5px 5px 0px;
+    padding: 8px;
+    box-sizing: border-box;
+    border-left: none;
+}
+
+.new-folder-popup-button {
+    padding: 5px 10px;
+    border: 1px solid rgb(192, 189, 189);
+    border-radius: 5px;
+    transition: all 0.2s ease-in-out;
+    color: black;
+}
+
+.new-folder-popup-button:hover {
+    filter: brightness(0.8);
+}
+
+.new-folder-popup-input:focus {
+    box-shadow: none;
+    outline: none;
+}
+
+.new-folder-popup-buttons {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px
+}
+
+.upload-folder-popup-div {
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    position: absolute;
+    background-color: #fff;;
+    box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.1);
+    border: 1px solid #eee;;
+    padding: 20px;
+    border-radius: 8px;
+    top: 120%;
+    left: -40%;
+    margin-top: 10;
+    box-sizing: border-box;
+}
+
+
+
+@media screen and (max-width: 1440px) {
+    
+}
+
+@media screen and (max-width: 860px) {
+    .box-home-side-bar {
+        display: none;
+        flex-direction: column;
+        width: 300px;
+        background-color: lightgray;
+        min-height: 100vh;
+        box-sizing: border-box;
+        padding: 15px;
+        overflow-y: auto;
+        position: absolute;
+        z-index: 13;
+        left: 0px;
+    }
+    .new-folder-popup-div {
+      display: flex;
+      flex-direction: column;
+      width: 300px;
+      position: absolute;
+      background-color: #fff;;
+      box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.1);
+      border: 1px solid #eee;;
+      padding: 20px;
+      border-radius: 8px;
+      top: 120%;
+      right: 5%;
+      left:auto;
+      margin-top: 10;
+      box-sizing: border-box;
+  }
+  .upload-folder-popup-div {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    position: absolute;
+    background-color: #fff;;
+    box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.1);
+    border: 1px solid #eee;;
+    padding: 20px;
+    border-radius: 8px;
+    top: 120%;
+    right: -15%;
+    left: auto;
+    margin-top: 10;
+    box-sizing: border-box;
+}
+
+}
+
+@media screen and (max-width: 428px) {
+  .box-home-side-bar {
+    display: none;
+    flex-direction: column;
+    width: 280px;
+    background-color: lightgray;
+    min-height: 100vh;
+    box-sizing: border-box;
+    padding: 15px;
+    overflow-y: auto;
+    position: absolute;
+    z-index: 13;
+    left: 0px;
+}
+.upload-folder-popup-div {
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+  position: absolute;
+  background-color: #fff;;
+  box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.1);
+  border: 1px solid #eee;;
+  padding: 20px;
+  border-radius: 8px;
+  top: 120%;
+  right: -15%;
+  left:auto;
+  margin-top: 10;
+  box-sizing: border-box;
+}
+
+.new-folder-popup-div {
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+  position: absolute;
+  background-color: #fff;;
+  box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.1);
+  border: 1px solid #eee;;
+  padding: 20px;
+  border-radius: 8px;
+  top: 120%;
+  right: 5%;
+  margin-top: 10;
+  box-sizing: border-box;
+}
+
+}

@@ -1,0 +1,188 @@
+.content-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.content-div {
+    width: 550px;
+    max-width: 50%;
+    border-radius: 10px;
+    background-color: var(--white);
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.content-header {
+   background-color: var(--light-red);
+   font-size: 45px;
+   width: 100%;
+   color: white;
+   text-align: center;
+   border-radius: 8px 8px 0px 0px;
+   margin-bottom: 40px;
+}
+
+.content-name-header {
+    font-size: 25px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.box-name-input {
+    border: none;
+    outline: none;
+    box-shadow: none;
+    border-bottom: 3px solid var(--light-red);
+    width: 400px;
+    font-size: 25px;
+    text-align: center;
+    transition: all 0.3s ease-in-out ;
+    margin-bottom: 15px;
+}
+
+.box-name-input:focus::placeholder {
+    color: transparent;
+  }
+
+.content-button {
+    background-color: var(--light-red);
+    max-height: 58px;
+    border: none;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    font-family: "Poppins";
+    font-weight: 800;
+    color: white;
+    font-size: 25px;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    transition: all 0.2s ease-in-out;
+}
+
+.content-button:hover {
+    transform: scale(1.1);
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+.existing-box-header {
+    color: gray;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+
+.fastbox-header-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 40%;
+    margin: 0px 20px;
+}
+
+.fastbox-header {
+    font-size: 55px;
+    color: white;
+    text-align: center;
+}
+
+.fastbox-header-p {
+    color: white;
+    font-size: 20px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.content-svg {
+    max-height: 170px;
+    max-width: 170px;
+}
+
+.content-svg-div {
+    display: flex;
+    justify-content: center;
+    min-height: 170px;
+}
+
+.bottom-design-content {
+    position: absolute;
+    width: 100%;
+    top: 100%;
+    transform: rotate(360deg);
+}
+
+@media screen and (max-width: 1440px) {
+    
+}
+
+@media screen and (max-width: 860px) {
+    .content-wrap {
+        flex-direction: column-reverse;
+
+    }
+    .fastbox-header-p {
+        max-width: 60%;
+
+    }
+    .fastbox-header-div {
+        width: 100%;
+    }
+    .fastbox-header {
+        margin-bottom: 20px;
+    }
+    .content-div {
+        width: 92%;
+        margin-bottom: 60px;
+        max-width: none;
+    }
+    .existing-box-header {
+        max-width: 70%;
+    }
+    .box-name-input {
+        width: 70%;
+    }
+    .content-header {
+        font-size: 40px;
+    }
+}
+
+@media screen and (max-width: 428px) {
+    .content-wrap {
+        flex-direction: column-reverse;
+
+    }
+    .fastbox-header-div {
+        padding-right: 0px;
+        padding: 20px;
+        width: auto;
+    }
+    .fastbox-header-p {
+        max-width: none;
+
+    }
+    .fastbox-header {
+        margin-bottom: 20px;
+    }
+    .content-div {
+        width: 92%;
+        margin-bottom: 30px;
+        max-width: none;
+    }
+    .existing-box-header {
+        max-width: 70%;
+    }
+    .box-name-input {
+        width: 70%;
+    }
+    .content-header {
+        font-size: 35px;
+    }
+}
+
+
